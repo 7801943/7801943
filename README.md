@@ -9,4 +9,4 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-data_fitting 学习使用曲线拟合函
+data_fit 学习使用曲线拟合函
